@@ -21,6 +21,7 @@ Modelar as principais entidades e relacionamentos de vendas online :
 - Pode ser cadastrado mais de uma forma de pagamento
 - Entrega deve possuir status e código de rastreio
 
+![Diagrama EER](imagens do diagrama/diagrama-eer.png)
 # Arquivos
 - 'diagrama/': Arquivo do MySQL Workbench
 - 'imagens do diagrama/': imagem completa do diagrama
