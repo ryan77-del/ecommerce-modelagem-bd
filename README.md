@@ -17,14 +17,26 @@ Modelar as principais entidades e relacionamentos de vendas online :
 - Terceiros vendedores
 
 ## Regras de negócio modeladas:
-- Produtos podem ter vendedores(Terceiros) distintos
-- Cada produto possui um ou mais fornecedores
-- Um ou mais produtos podem compor um pedido
-- Cliente pode se cadastrar com CPF ou CNPJ
-- Endereço determina valor do frete
-- Pedido tem tempo de carência para devolução
-- Pode ser cadastrado mais de uma forma de pagamento
-- Entrega deve possuir status e código de rastreio
+
+## Cliente
+Cliente pode ser PF ou PJ
+Cliente pode fazer vários pedidos
+ 
+## Pedido
+Um ou mais produtos compõem um pedido
+Pedido possui status
+Pedido pode ser cancelado
+
+## Produto
+Produto possui fornecedor
+Produto pode ser vendido por terceiros
+
+## Logística
+Endereço influencia o frete
+Entrega possui status e rastreio
+
+## Pagamento
+Pagamento pode ter diferentes formas
 
 # Arquivos
 - 'diagrama/': Arquivo do MySQL Workbench
