@@ -23,7 +23,7 @@ Modelar as principais entidades e relacionamentos de vendas online :
 
 # Arquivos
 - 'diagrama/': Arquivo do MySQL Workbench
-- 'imagens do diagrama/': imagem completa do diagrama
+- 'imagens/': imagem completa do diagrama
 
 # Ferramentas que eu usei:
 - MySQL Workbench
