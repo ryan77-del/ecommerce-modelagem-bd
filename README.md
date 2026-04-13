@@ -19,24 +19,24 @@ Modelar as principais entidades e relacionamentos de vendas online :
 ## Regras de negócio modeladas:
 
 ## Cliente
-Cliente pode ser PF ou PJ
-Cliente pode fazer vários pedidos
+- Cliente pode ser PF ou PJ
+- Cliente pode fazer vários pedidos
  
 ## Pedido
-Um ou mais produtos compõem um pedido
-Pedido possui status
-Pedido pode ser cancelado
+- Um ou mais produtos compõem um pedido
+- Pedido possui status
+- Pedido pode ser cancelado
 
 ## Produto
-Produto possui fornecedor
-Produto pode ser vendido por terceiros
+- Produto possui fornecedor
+- Produto pode ser vendido por terceiros
 
 ## Logística
-Endereço influencia o frete
-Entrega possui status e rastreio
+- Endereço influencia o frete
+- Entrega possui status e rastreio
 
 ## Pagamento
-Pagamento pode ter diferentes formas
+- Pagamento pode ter diferentes formas
 
 # Arquivos
 - 'diagrama/': Arquivo do MySQL Workbench
