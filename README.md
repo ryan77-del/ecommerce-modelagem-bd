@@ -29,6 +29,8 @@ Modelar as principais entidades e relacionamentos de vendas online :
 - MySQL Workbench
 - GitHub
 
+
+
 ## 📊 Diagrama do Banco de Dados
 ![Diagrama](Primeira%20versão%20do%20projeto%20de%20modelagem%20e-commerce/imagens/diagrama-eer.png)
 
