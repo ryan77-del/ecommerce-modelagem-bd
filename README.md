@@ -31,6 +31,3 @@ Modelar as principais entidades e relacionamentos de vendas online :
 
 ![Diagrama EER](imagens/diagrama-eer.png)
 
-## 📊 Diagrama do Banco de Dados
-
-## 📊 Diagrama do Banco de Dados
