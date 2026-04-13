@@ -22,7 +22,7 @@ Modelar as principais entidades e relacionamentos de vendas online :
 - Entrega deve possuir status e código de rastreio
 
 # Arquivos
-- : Arquivo do MySQL Workbench
+- ![Diagrama EER](imagens/diagram.png): Arquivo do MySQL Workbench
 - 'imagens do diagrama/': imagem completa do diagrama
 
 # Ferramentas que eu usei:
