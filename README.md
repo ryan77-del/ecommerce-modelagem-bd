@@ -28,3 +28,7 @@ Modelar as principais entidades e relacionamentos de vendas online :
 # Ferramentas que eu usei:
 - MySQL Workbench
 - GitHub
+
+![Diagrama EER](imagens/diagrama-eer.png)
+
+## 📊 Diagrama do Banco de Dados
