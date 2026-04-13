@@ -1,3 +1,9 @@
+## 📊 Diagrama do Banco de Dados
+![Diagrama](Primeira%20versão%20do%20projeto%20de%20modelagem%20e-commerce/imagens/diagrama-eer.png)
+
+
+
+
 # Projeto de modelagem de banco de dados - E-commerce
 O projeto apresenta a modelagem de um banco de dados de um sistema de e-commerce no MySQL Workbench
 
@@ -8,13 +14,12 @@ Modelar as principais entidades e relacionamentos de vendas online :
 - Produto
 - Estoque
 - Fornecedor
-- Estoque
 - Terceiros vendedores
 
 ## Regras de negócio modeladas:
 - Produtos podem ter vendedores(Terceiros) distintos
 - Cada produto possui um ou mais fornecedores
-- Um ou mais pedidos podem compor um produto
+- Um ou mais produtos podem compor um pedido
 - Cliente pode se cadastrar com CPF ou CNPJ
 - Endereço determina valor do frete
 - Pedido tem tempo de carência para devolução
@@ -30,7 +35,4 @@ Modelar as principais entidades e relacionamentos de vendas online :
 - GitHub
 
 
-
-## 📊 Diagrama do Banco de Dados
-![Diagrama](Primeira%20versão%20do%20projeto%20de%20modelagem%20e-commerce/imagens/diagrama-eer.png)
 
