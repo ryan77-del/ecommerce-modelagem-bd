@@ -14,7 +14,7 @@ Modelar as principais entidades e relacionamentos de vendas online :
 ## Regras de negócio modeladas:
 - Produtos podem ter vendedores(Terceiros) distintos
 - Cada produto possui um ou mais fornecedores
-- Um ou mais pedidos podem compor um pedido
+- Um ou mais pedidos podem compor um produto
 - Cliente pode se cadastrar com CPF ou CNPJ
 - Endereço determina valor do frete
 - Pedido tem tempo de carência para devolução
